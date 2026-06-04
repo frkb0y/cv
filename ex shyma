@@ -1,0 +1,202 @@
+
+{
+  "name": "Loulou Bientz",
+  "phone": "+39 334 276 4152",
+  "email": "shayma.bientz@gmail.com",
+  "linkedin": "",
+  "portfolio": "",
+  "title": "Event Hostess | Production Assistant | Creative Arts Background",
+  "summary": "Multilingual and adaptable professional with experience in event hosting, stage production support, and cultural performance environments across Tunisia and Italy. Strong communication, guest relations, and organizational skills with the ability to work efficiently in fast-paced event settings. Passionate about customer experience, creative collaboration, and live production environments.",
+  "education": [
+    {
+      "degree": "Baccalaureate Diploma",
+      "school": "Lycée Pierre Mendès France",
+      "period": "2021 – 2022",
+      "gpa": ""
+    },
+    {
+      "degree": "Triennio Pittura (Painting & Visual Arts)",
+      "school": "Accademia di Brera",
+      "period": "2022 – Present",
+      "gpa": ""
+    }
+  ],
+  "experience": [
+    {
+      "role": "Event Hostess",
+      "company": "Ghorbel.tn",
+      "location": "Tunis, Tunisia",
+      "period": "2021 – 2025",
+      "bullets": [
+        "Welcomed and assisted guests during corporate and public events in high-volume environments.",
+        "Managed attendee communication professionally while ensuring a positive customer experience.",
+        "Coordinated with event teams to maintain smooth operations and efficient guest flow."
+      ]
+    },
+    {
+      "role": "Stagehand & Production Assistant",
+      "company": "Short Film Production",
+      "location": "Radès, Tunisia",
+      "period": "2020",
+      "bullets": [
+        "Supported technical setup and stage preparation for film production activities.",
+        "Assisted production teams with equipment organization and backstage coordination."
+      ]
+    },
+    {
+      "role": "Performer / Cultural Arts Participant",
+      "company": "Cultural Arts Center",
+      "location": "Ben Arous, Tunisia",
+      "period": "2017 – 2018",
+      "bullets": [
+        "Participated in theater and cultural performance activities.",
+        "Developed teamwork, stage presence, and creative communication skills."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Customer Relations",
+      "values": "Guest Reception, Customer Support, Public Interaction, Conflict Resolution"
+    },
+    {
+      "category": "Event Operations",
+      "values": "Event Coordination, Team Collaboration, Stage Preparation, Production Assistance"
+    },
+    {
+      "category": "Communication",
+      "values": "Multilingual Communication, Professional Etiquette, Adaptability"
+    },
+    {
+      "category": "Creative Skills",
+      "values": "Visual Arts, Performance Experience, Creative Collaboration"
+    }
+  ],
+
+
+"languages": [
+    {
+      "lang": "Arabic",
+      "level": "Native"
+    },
+    {
+      "lang": "French",
+      "level": "Native"
+    },
+    {
+      "lang": "English",
+      "level": "Advanced"
+    },
+    {
+      "lang": "Italian",
+      "level": "B2 Upper Intermediate"
+    }
+],
+  "certifications": [],
+  "interests": [
+    "Visual Arts",
+    "Cinema & Production",
+    "Live Events",
+    "Creative Collaboration"
+  ]
+}
+///////////////////////////////////
+{
+  "name": "Loulou Bientz",
+  "phone": "+39 334 276 4152",
+  "email": "shayma.bientz@gmail.com",
+  "linkedin": "",
+  "portfolio": "",
+  "title": "Hostess",
+  "summary": "Professionista multilingue e adattabile con esperienza nell’ospitalità di eventi, supporto alla produzione scenica e ambienti di performance culturale tra Tunisia e Italia. Forti competenze comunicative, gestione degli ospiti e organizzazione, con capacità di lavorare in modo efficiente in contesti dinamici. Appassionata di esperienza del cliente, collaborazione creativa e ambienti di produzione dal vivo.",
+  "education": [
+    {
+      "degree": "Diploma di Baccalauréat generale",
+      "school": "Lycée Pierre Mendès France",
+      "period": "2021 – 2022",
+      "gpa": ""
+    },
+    {
+      "degree": "Triennio Pittura (Arti Visive e Pittura)",
+      "school": "Accademia di Brera",
+      "period": "2022 – Presente",
+      "gpa": ""
+    }
+  ],
+  "experience": [
+    {
+      "role": "Hostess di eventi",
+      "company": "Ghorbel.tn",
+      "location": "Tunisi, Tunisia",
+      "period": "2021 – 2025",
+      "bullets": [
+        "Accoglienza e assistenza agli ospiti durante eventi aziendali e pubblici in ambienti ad alta affluenza.",
+        "Gestione professionale della comunicazione con i partecipanti garantendo un’esperienza positiva.",
+        "Collaborazione con i team di eventi per assicurare operazioni fluide e un efficace flusso degli ospiti."
+      ]
+    },
+    {
+      "role": "Assistente di scena e produzione",
+      "company": "Produzione di cortometraggi",
+      "location": "Radès, Tunisia",
+      "period": "2020",
+      "bullets": [
+        "Supporto alla preparazione tecnica e all’allestimento del set durante le attività di produzione cinematografica.",
+        "Assistenza ai team di produzione nell’organizzazione delle attrezzature e nel coordinamento dietro le quinte."
+      ]
+    },
+    {
+      "role": "Performer / Partecipante ad attività culturali",
+      "company": "Centro di arti culturali",
+      "location": "Ben Arous, Tunisia",
+      "period": "2017 – 2018",
+      "bullets": [
+        "Partecipazione ad attività teatrali e performative culturali.",
+        "Sviluppo di competenze di lavoro di squadra, presenza scenica e comunicazione creativa."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Relazioni con il cliente",
+      "values": "Accoglienza ospiti, supporto clienti, interazione pubblica, risoluzione dei conflitti"
+    },
+    {
+      "category": "Operazioni eventi",
+      "values": "Coordinamento eventi, collaborazione di squadra, preparazione del palco, supporto alla produzione"
+    },
+    {
+      "category": "Comunicazione",
+      "values": "Comunicazione multilingue, etichetta professionale, adattabilità"
+    },
+    {
+      "category": "Competenze creative",
+      "values": "Arti visive, esperienza performativa, collaborazione creativa"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "Arabo",
+      "level": "Madrelingua"
+    },
+    {
+      "lang": "Francese",
+      "level": "Madrelingua"
+    },
+    {
+      "lang": "Inglese",
+      "level": "Avanzato"
+    },
+    {
+      "lang": "Italiano",
+      "level": "Intermedio superiore (B2)"
+    }
+  ],
+  "certifications": [],
+  "interests": [
+    "Arti visive",
+    "Cinema e produzione",
+    "Eventi dal vivo",
+    "Collaborazione creativa"
+  ]
+}

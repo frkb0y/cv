@@ -1,0 +1,111 @@
+{
+  "name": "Arslen Mohamed",
+  "phone": "+216-25255542",
+  "email": "arslenmohamed2001@gmail.com",
+  "linkedin": "arslen-mohamed",
+  "portfolio": "arslen-profile.netlify.app",
+  "title": "Data Engineer | Big Data",
+  "summary": "Motivated software engineer with hands-on experience in full-stack development, data engineering, and AI-powered applications. Proven ability to deliver real-world production systems. Seeking a Master's in Computer Science in Italy to deepen expertise in software engineering and data science.",
+  "education": [
+    {
+      "degree": "B.Sc. in Big Data and Software Development",
+      "school": "Higher Institute of Computer Science and Multimedia, Sfax",
+      "period": "2021 – 2025",
+      "gpa": ""
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Developer",
+      "company": "Houria Bois",
+      "location": "Kelibia, Tunisia",
+      "period": "2026",
+      "bullets": [
+        "Architected and deployed a full-stack inventory & credit management system for a wood trading company.",
+        "Built responsive frontend with React + TypeScript, backend with Node.js, database with Supabase (PostgreSQL).",
+        "Deployed on Netlify; system handles real-time stock tracking, purchase records, and client credit management."
+      ]
+    },
+    {
+      "role": "Data / Backend Intern",
+      "company": "Twinkle-IT",
+      "location": "Remote",
+      "period": "2025",
+      "bullets": [
+        "Designed and optimized SQL Server data workflows for a school management system.",
+        "Built reporting dashboards and analytics features using .NET and Power BI."
+      ]
+    },
+    {
+      "role": "Data Management Intern",
+      "company": "Tunisie Telecom",
+      "location": "Remote",
+      "period": "2022",
+      "bullets": [
+        "Managed large-scale telecom data using MongoDB and used Flutter for mobile application development.",
+        "Contributed to backend systems ensuring reliable data flow and storage at scale."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Stock & Credit Management System – Houria Bois",
+      "description": "Production-ready web app for inventory, purchase tracking, and client credit management for a wood trading business.",
+      "tech": "React, TypeScript, Node.js, Supabase, Netlify",
+      "link": ""
+    },
+    {
+      "name": "Document Management System",
+      "description": "Reduced document retrieval time by ~50% via advanced search and filtering.",
+      "tech": "Java, SQLite",
+      "link": ""
+    },
+    {
+      "name": "Data Visualization Dashboards",
+      "description": "Built interactive analytics dashboards for business intelligence projects.",
+      "tech": "Tableau, Power BI, Apache Spark",
+      "link": ""
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "values": "React, TypeScript, JavaScript, HTML/CSS, SASS, Flutter"
+    },
+    {
+      "category": "Backend",
+      "values": "Node.js, PHP, Laravel, Python, Java"
+    },
+    {
+      "category": "Databases",
+      "values": "MySQL, PostgreSQL, Supabase, MongoDB, SQL Server, SQLite"
+    },
+    {
+      "category": "Big Data & BI",
+      "values": "Apache Spark, Hadoop, Power BI, Tableau"
+    },
+    {
+      "category": "AI & Data Science",
+      "values": "Python (Pandas, NumPy, Scikit-learn), Data Cleaning, Visualization"
+    },
+    {
+      "category": "DevOps & Tools",
+      "values": "Git, Netlify, Vercel, Linux"
+    }
+  ],
+  "certifications": [
+    "EF SET English Certificate (B2 Upper Intermediate)",
+    "IELTS Certificate",
+    "Coursera – Management Fundamentals"
+  ],
+  "languages": [
+    {
+      "lang": "Arabic",
+      "level": "Native"
+    },
+    {
+      "lang": "English",
+      "level": "B2 Upper Intermediate"
+    }
+  ]
+}
